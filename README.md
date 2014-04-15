@@ -1,4 +1,4 @@
-FlappyMario
+FlappyMario(unfinished)
 ===========
 
 A clone of Flappybird.
